@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Logs
+*.txt
+*.log
+
+# Sensitive - do not commit
+# gen_config.py  ← uncomment this if you want to exclude DB credentials
+
+# OS
+.DS_Store
+Thumbs.db
